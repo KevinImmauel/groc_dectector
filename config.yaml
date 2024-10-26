@@ -1,0 +1,9 @@
+path: C:/Users/billi/PycharmProjects/groc_detection/data
+train: images/train
+val: images/train
+
+names:
+  0: apple
+  1: tomato
+  2: banana
+  3: grapes
